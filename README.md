@@ -24,7 +24,7 @@ Este projeto utiliza a API do Google Gemini para automatizar a transcrição e a
 ### 3. Configuração do Script
 1. Acesse o [Google Apps Script](https://script.google.com/).
 2. Crie um **Novo Projeto**.
-3. Apague o código padrão e cole o conteúdo do arquivo `Código.gs` deste repositório.
+3. Apague o código padrão e cole o conteúdo do arquivo `code.gs` deste repositório.
 4. Clique no ícone de engrenagem (**Configurações do Projeto**) no menu lateral.
 5. Em **Propriedades do script**, adicione as seguintes chaves:
    - `GEMINI_API_KEY`: Cole sua chave gerada no AI Studio.
